@@ -1,0 +1,14 @@
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\bin\Debug\Práctica Visual.exe.config
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\bin\Debug\Práctica Visual.exe
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\bin\Debug\Práctica Visual.pdb
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica Visual.csproj.AssemblyReference.cache
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica_Visual.Properties.Resources.resources
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica Visual.csproj.GenerateResource.cache
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica Visual.csproj.CoreCompileInputs.cache
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica Visual.exe
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica Visual.pdb
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica_Visual.Login.resources
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica_Visual.Visual.resources
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica_Visual.home.resources
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica_Visual.ClientesMain.resources
+C:\Users\jairo\Documents\ULSA\Sexto semestre\Visual\Primer Parcial\Práctica Visual\Práctica Visual\Práctica Visual\obj\Debug\Práctica_Visual.Resources.AgregarCliente.resources
